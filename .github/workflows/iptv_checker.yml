@@ -1,0 +1,44 @@
+name: IPTV Playlist Auto-Healing System
+
+on:
+  schedule:
+    # နိုင်ငံတကာပွဲစဉ်အများစုရှိတတ်သော မြန်မာစံတော်ချိန် ညနေ ၅:၃၀ မှ ညသန်းခေါင်ကျော်အထိ 
+    # UTC အနေဖြင့် (11:00 AM UTC မှ 8:00 PM UTC အထိ) မိနစ် ၃၀ တစ်ကြိမ် Run မည်။
+    - cron: '*/30 11-20 * * *'
+    
+    # ကျန်တဲ့အချိန်များတွင် တစ်နေ့ ၃ ကြိမ်သာ စစ်မည် (Resource သက်သာစေရန်)
+    - cron: '0 0,6,12 * * *'
+    
+  workflow_dispatch: # လိုအပ်ပါက Manual (လက်ဖြင့်) ကြိုက်တဲ့အချိန် နှိပ် Run နိုင်ရန်
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # GitHub သို့ ပြန်ပြီး Commit/Push လုပ်ခွင့်ပေးရန်
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-node-version: '3.10'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run IPTV Checker Script
+      run: python iptv_checker.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add active.m3u dead.m3u
+        
+        # ပြောင်းလဲမှုရှိမှသာ Commit လုပ်ရန် (Error မတက်စေရန်)
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-Updated Playlist: $(date +'%Y-%m-%d %H:%M:%S')" && git push)
