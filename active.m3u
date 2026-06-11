@@ -1,124 +1,53 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="FIFA.Plus.En" tvg-name="FIFA Plus English" group-title="FIFA & World Cup",FIFA Plus English
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FIFA.Plus.Fr" tvg-name="FIFA Plus B" group-title="FIFA & World Cup",FIFA Plus B (French)
 https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" group-title="FIFA & World Cup",Fox Sports 2 - (FIFA)
-https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
-
 #EXTINF:-1 tvg-id="TycSports.Arg" tvg-name="Tyc Sports - ARG" group-title="International Sports",Tyc Sports - ARG 🇦🇷
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TycSportsB.Arg" tvg-name="Tyc Sports B - ARG" group-title="International Sports",Tyc Sports B - ARG 🇦🇷
 http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
-
-#EXTINF:-1 tvg-id="DSports.Arg" tvg-name="DSports HD - ARG" group-title="International Sports",DSports HD - ARG 🇦🇷
-http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
-
 #EXTINF:-1 tvg-id="CazeTV.Bra" tvg-name="Caze TV - BRA" group-title="International Sports",Caze TV - BRA 🇧🇷
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
 #EXTINF:-1 tvg-id="CazeTVB.Bra" tvg-name="Caze TV B - BRA" group-title="International Sports",Caze TV B - BRA 🇧🇷
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
 #EXTINF:-1 tvg-id="DAZN1.HD" tvg-name="DAZN 1 HD" group-title="Premium Sports",DAZN 1 HD
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
-
 #EXTINF:-1 tvg-id="DAZN2.HD" tvg-name="DAZN 2 HD" group-title="Premium Sports",DAZN 2 HD
 http://znty.dyndns.org:5010/hls/eleven2.m3u8
-
 #EXTINF:-1 tvg-id="DAZN3.HD" tvg-name="DAZN 3 HD" group-title="Premium Sports",DAZN 3 HD
 http://znty.dyndns.org:5010/hls/eleven3.m3u8
-
 #EXTINF:-1 tvg-id="DAZN4.HD" tvg-name="DAZN 4 HD" group-title="Premium Sports",DAZN 4 HD
 http://znty.dyndns.org:5010/hls/eleven4.m3u8
-
 #EXTINF:-1 tvg-id="DAZN5.HD" tvg-name="DAZN 5 HD" group-title="Premium Sports",DAZN 5 HD
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
-
 #EXTINF:-1 tvg-id="BeinSports.Fr" tvg-name="Bein Sports - FR" group-title="beIN Network",Bein Sports - 🇫🇷 (FIFA)
 http://145.239.5.177/559/mpegts
-
 #EXTINF:-1 tvg-id="BeinSports2B.Fr" tvg-name="Bein Sports 2 B - FR" group-title="beIN Network",Bein Sports 2 B- 🇫🇷 (FIFA)
 http://145.239.5.177:80/559/index.m3u8
-
 #EXTINF:-1 tvg-id="BeinSports1.Rs" tvg-name="Bein Sports 1 - RS" group-title="beIN Network",Bein Sports 1 - 🇷🇸 (FIFA)
 http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-
 #EXTINF:-1 tvg-id="BeinSports2.Rs" tvg-name="Bein Sports 2 - RS" group-title="beIN Network",Bein Sports 2 - 🇷🇸 (FIFA)
 http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
-
 #EXTINF:-1 tvg-id="TUDN.1080" tvg-name="TUDN 1080" group-title="International Sports",TUDN 1080 (FIFA)
 http://177.10.184.60:8002/play/a013/index.m3u8
-
 #EXTINF:-1 tvg-id="BeinSports1.Asia" tvg-name="Bein Sports 1" group-title="beIN Network",Bein Sports 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8
-
 #EXTINF:-1 tvg-id="BeinSports2.Asia" tvg-name="Bein Sports 2" group-title="beIN Network",Bein Sports 2
 http://27.124.71.27/beIN_Sports_2/index.m3u8
-
 #EXTINF:-1 tvg-id="BeinSports3.Asia" tvg-name="Bein Sports 3" group-title="beIN Network",Bein Sports 3
 http://27.124.71.27/beIN_Sports_3/index.m3u8
-
 #EXTINF:-1 tvg-id="BeinSports4.US" tvg-name="Bein Sports 4" group-title="beIN Network",Bein Sports 4
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
 #EXTINF:-1 tvg-id="BeinSportsXtra" tvg-name="beIN Sports Xtra" group-title="beIN Network",beIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-
-#EXTINF:-1 tvg-id="BeinSports1.Andro" tvg-name="Bein Sports 1 Backup" group-title="beIN Network",Bein Sports 1 (Backup)
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 tvg-id="BeinSports2.Andro" tvg-name="Bein Sports 2 Backup" group-title="beIN Network",Bein Sports 2 (Backup)
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-
-#EXTINF:-1 tvg-id="BeinSports3.Andro" tvg-name="Bein Sports 3 Backup" group-title="beIN Network",Bein Sports 3 (Backup)
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-
-#EXTINF:-1 tvg-id="BeinSports4.Andro" tvg-name="Bein Sports 4 Backup" group-title="beIN Network",Bein Sports 4 (Backup)
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-
 #EXTINF:-1 tvg-id="Cricbuzz.HD" tvg-name="Cricbuzz HD" group-title="Cricket Sports",Cricbuzz HD
 http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
-
-#EXTINF:-1 tvg-id="Willow.HD" tvg-name="Willow HD TV" group-title="Cricket Sports",Willow HD TV
-https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
-
 #EXTINF:-1 tvg-id="TSports.HD" tvg-name="T Sports HD" group-title="South Asian Sports",T Sports HD
 http://27.124.71.27/T-Sports/index.m3u8
-
-#EXTINF:-1 tvg-id="TSports.B" tvg-name="T Sports B" group-title="South Asian Sports",T Sports B
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
-
-#EXTINF:-1 tvg-id="EuroTV.Sports" tvg-name="Euro TV Sports" group-title="International Sports",Euro TV
-https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-
-#EXTINF:-1 tvg-id="StarSports1" tvg-name="Star Sports 1" group-title="Cricket Sports",Star Sports 1
-https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="StarSports1B" tvg-name="Star Sports 1 B" group-title="Cricket Sports",Star Sports 1 B
-https://tvsen7.aynaott.com/sspts1/index.m3u8
-
 #EXTINF:-1 tvg-id="CricketGold" tvg-name="Cricket Gold" group-title="Cricket Sports",Cricket Gold
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="International Sports",ESPN
-https://tvsen5.aynaott.com/espn/index.m3u8
-
 #EXTINF:-1 tvg-id="ASports" tvg-name="ASports" group-title="International Sports",ASports
 https://tvsen6.aynaott.com/asports/index.m3u8
-
 #EXTINF:-1 tvg-id="PTVSports" tvg-name="PTV Sports" group-title="International Sports",PTV Sports (FIFA)
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 1" group-title="International Sports",TSN 1
-https://tvsen7.aynaott.com/tsn1/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN2" tvg-name="TSN 2" group-title="International Sports",TSN 2
-https://tvsen7.aynaott.com/tsn2/index.m3u8
-
-#EXTINF:-1 tvg-id="TSN3" tvg-name="TSN 3" group-title="International Sports",TSN 3
-https://tvsen7.aynaott.com/tsn3/index.m3u8

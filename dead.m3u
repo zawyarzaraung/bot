@@ -1,1 +1,31 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2" group-title="FIFA & World Cup",Fox Sports 2 - (FIFA)
+https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238
+#EXTINF:-1 tvg-id="DSports.Arg" tvg-name="DSports HD - ARG" group-title="International Sports",DSports HD - ARG 🇦🇷
+http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
+#EXTINF:-1 tvg-id="BeinSports1.Andro" tvg-name="Bein Sports 1 Backup" group-title="beIN Network",Bein Sports 1 (Backup)
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="BeinSports2.Andro" tvg-name="Bein Sports 2 Backup" group-title="beIN Network",Bein Sports 2 (Backup)
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="BeinSports3.Andro" tvg-name="Bein Sports 3 Backup" group-title="beIN Network",Bein Sports 3 (Backup)
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="BeinSports4.Andro" tvg-name="Bein Sports 4 Backup" group-title="beIN Network",Bein Sports 4 (Backup)
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="Willow.HD" tvg-name="Willow HD TV" group-title="Cricket Sports",Willow HD TV
+https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
+#EXTINF:-1 tvg-id="TSports.B" tvg-name="T Sports B" group-title="South Asian Sports",T Sports B
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
+#EXTINF:-1 tvg-id="EuroTV.Sports" tvg-name="Euro TV Sports" group-title="International Sports",Euro TV
+https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="StarSports1" tvg-name="Star Sports 1" group-title="Cricket Sports",Star Sports 1
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="StarSports1B" tvg-name="Star Sports 1 B" group-title="Cricket Sports",Star Sports 1 B
+https://tvsen7.aynaott.com/sspts1/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="International Sports",ESPN
+https://tvsen5.aynaott.com/espn/index.m3u8
+#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 1" group-title="International Sports",TSN 1
+https://tvsen7.aynaott.com/tsn1/index.m3u8
+#EXTINF:-1 tvg-id="TSN2" tvg-name="TSN 2" group-title="International Sports",TSN 2
+https://tvsen7.aynaott.com/tsn2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3" tvg-name="TSN 3" group-title="International Sports",TSN 3
+https://tvsen7.aynaott.com/tsn3/index.m3u8
