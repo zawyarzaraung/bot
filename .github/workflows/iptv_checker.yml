@@ -1,2 +1,42 @@
-      - name: Extract Sports Channels
-        run: python extract_sports.py
+name: IPTV Auto-Extractor & Checker
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'all_channels.m3u'
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Extract Sports & Check Streams
+        run: |
+          # all_channels.m3u ရှိမရှိ အရင်စစ်မယ်
+          if [ -f "all_channels.m3u" ]; then
+            echo "Found big list. Extracting sports channels first..."
+            python extract_sports.py
+          fi
+          
+          echo "Running IPTV Checker..."
+          python iptv_checker.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add active.m3u dead.m3u
+          git diff --cached --quiet || git commit -m "Automated Playlist Update"
+          git push
