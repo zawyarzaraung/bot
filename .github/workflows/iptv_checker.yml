@@ -1,10 +1,9 @@
-name: IPTV Auto-Extractor & Checker
+name: IPTV Auto-Healing System
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'all_channels.m3u'
+  schedule:
+    - cron: '0 */6 * * *' # ၆ နာရီတစ်ကြိမ် အော်တိုပတ်မည့်စနစ်
 
 jobs:
   update-playlist:
@@ -22,16 +21,8 @@ jobs:
       - name: Install Dependencies
         run: pip install requests
 
-      - name: Extract Sports & Check Streams
-        run: |
-          # all_channels.m3u ရှိမရှိ အရင်စစ်မယ်
-          if [ -f "all_channels.m3u" ]; then
-            echo "Found big list. Extracting sports channels first..."
-            python extract_sports.py
-          fi
-          
-          echo "Running IPTV Checker..."
-          python iptv_checker.py
+      - name: Run IPTV Checker
+        run: python iptv_checker.py
 
       - name: Commit and Push Changes
         run: |
