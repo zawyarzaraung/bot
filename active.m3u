@@ -5,10 +5,6 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
 #EXTINF:-1 tvg-id="GAORASPORTS.jp@SD" tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="Sports",Gaora Sports
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 tvg-id="" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Sports",Golf Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/golf-network/manifest.m3u8?ads.vf=JfEbVnzdK_W
-https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="JSPORTS1.jp@SD" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",J Sports 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 #EXTINF:-1 tvg-id="JSPORTS2.jp@SD" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="Sports",J Sports 2
