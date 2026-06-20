@@ -65,8 +65,6 @@ https://pac12-roku-us.amagi.tv/playlist.m3u8
 https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Homerun TV
 https://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",MMA-TV
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Hoop TV
 https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Sport Fishing TV
@@ -99,5 +97,3 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fturkmenistan+hd.jpg",Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="DSports.Arg" tvg-name="DSports HD - ARG" group-title="International Sports" tvg-logo="https://raw.githubusercontent.com/manandbytes/iptv-logos/main/logos/dsports.png",DSports HD - ARG 🇦🇷
-http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
