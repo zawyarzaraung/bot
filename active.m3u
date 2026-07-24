@@ -87,8 +87,6 @@ https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RTASport.af" tvg-logo="https://i.imgur.com/lEXrwos.jpg" group-title="Sports",RTA Sport
 https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8
-#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="Sports",Беларусь 5 (Belarus 5)
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fturkmenistan+hd.jpg",Turkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="Sports",BEK TV Sports West
