@@ -11,8 +11,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="DSports.Arg" tvg-name="DSports HD - ARG" group-title="International Sports" tvg-logo="https://raw.githubusercontent.com/manandbytes/iptv-logos/main/logos/dsports.png",DSports HD - ARG 🇦🇷
 http://cablemaxsigloxxi.com:8000/play/a0l4/index.m3u8
-#EXTINF:-1 tvg-id="JantaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JANTA_TV/images/LOGO_HD/image.png" group-title="News",Janta TV
-https://live.jswk.online/IK_RTPM/live/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Stream 2
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 group-title="Entertainment" tvg-id="50" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_810/LANDSCAPE_43/aUwEJIgo.png",TV5 Monde Asie
