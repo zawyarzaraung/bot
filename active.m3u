@@ -19,8 +19,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Ace TV
 https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/red-bul-tv-at.png",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="SwerveSports.us" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="Sports",Swerve Combat
 https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/no-canal-motor-tv-5547.jpg",Canal Mortor
@@ -90,10 +88,6 @@ https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 https://live.jswk.online/IK_RTPM/live/index.m3u8
 #EXTINF:-1 tvg-id="HorseTVHD.it" tvg-logo="https://i.imgur.com/9lctpnP.png" group-title="Sports",HorseTV
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="International Sports" tvg-logo="https://raw.githubusercontent.com/manandbytes/iptv-logos/main/logos/espn.png",ESPN
-https://tvsen5.aynaott.com/espn/index.m3u8
-#EXTINF:-1 tvg-id="Willow.HD" tvg-name="Willow HD TV" group-title="Cricket Sports",Willow HD TV
-https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
 #EXTINF:-1 tvg-id="GamePlus.ca" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="Sports",Game+
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5Internet.by" tvg-logo="https://i.imgur.com/rzPQ9Iz.png" group-title="Sports",Беларусь 5 Интернет (Belarus 5 Internet)
@@ -102,5 +96,3 @@ https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" group-title="Sports",Беларусь 5 (Belarus 5)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BansalNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BANSAL_NEWS/images/LOGO_HD/image.png" group-title="News",Bansal News
-https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
