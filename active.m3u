@@ -82,8 +82,6 @@ https://rta-tv.akamaized.net/live/SD/RTA-3/RTA/RTA-3.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr@SD" tvg-logo="https://i.imgur.com/62EwaCG.png" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv" group-title="Entertainment",TV Chosun
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="International Sports" tvg-logo="https://raw.githubusercontent.com/manandbytes/iptv-logos/main/logos/espn.png",ESPN
-https://tvsen5.aynaott.com/espn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Fight TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Goal TV
@@ -94,8 +92,6 @@ https://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-logo="https://i.imgur.com/2ByDyzL.png" group-title="Sports",Nautical Channel
 https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
-#EXTINF:-1 tvg-id="Willow.HD" tvg-name="Willow HD TV" group-title="Cricket Sports",Willow HD TV
-https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779283803&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2fe7bf4f892cf09f80087b8146545bad
 #EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Sports",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/no-canal-motor-tv-5547.jpg",Canal Mortor
